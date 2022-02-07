@@ -1,1 +1,2 @@
-# pratica-c-lista-estatica-encadeada
+# Lista estática encadeada
+Exercício feito na disciplina de Algoritmos e Estruturas de Dados ministrado na UNIFESP.
